@@ -20,6 +20,12 @@ const books = [
         title: "First 100 Board Book Box Set (3 books)",
         author:"Roger Priddy",
         image:"https://images-na.ssl-images-amazon.com/images/I/514CZz2fN-L._AC_SX184_.jpg"
+    },
+    {
+        id:4,
+        title: "First 100 Board Book Box Set (3 books)",
+        author:"Roger Priddy",
+        image:"https://images-na.ssl-images-amazon.com/images/I/514CZz2fN-L._AC_SX184_.jpg"
     }
 
 ]
